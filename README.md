@@ -92,7 +92,7 @@ curl -X POST http://localhost:5000/api/auth/login \
   -H "Content-Type: application/json" \
   -d '{"email":"john@test.com","password":"123456"}'
 
-📚 References
+### References
 Books
 
 Mario Casciaro — Node.js Design Patterns
@@ -112,7 +112,6 @@ NodeConf EU
 MongoDB World
 
 YouTube Topics
-
 Node.js Express REST API Tutorial
 
 MongoDB CRUD with Mongoose

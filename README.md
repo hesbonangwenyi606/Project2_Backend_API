@@ -41,4 +41,4 @@ Orders
 - `GET /api/orders` — admin: list all orders
 - `PUT /api/orders/:id` — admin: update order status
 
-## Note
+## No

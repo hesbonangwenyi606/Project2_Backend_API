@@ -1,9 +1,7 @@
 Project2_Backend_API
-
 A fully functional Node.js + Express REST API with MongoDB (Mongoose), JWT Authentication, Role-Based Access, and a structured MVC architecture.
 
 Features
-
 User authentication (Register, Login)
 
 JWT-based authentication

@@ -43,4 +43,4 @@ Orders
 
 ## Notes
 - This project is scaffolded and ready to run. You need a running MongoDB instance.
-- To create an admin user, register normally and then update the user's `role` field in the database to `admin`.
+- To create an admin user, register normally and then update the user's `role` field in the database to 

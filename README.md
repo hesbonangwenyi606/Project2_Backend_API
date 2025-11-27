@@ -42,4 +42,4 @@ Orders
 - `PUT /api/orders/:id` — admin: update order status
 
 ## Notes
-- This project is scaffolded and ready 
+- This project is scaffolded and re

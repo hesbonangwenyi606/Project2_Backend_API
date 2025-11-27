@@ -22,7 +22,6 @@ Node.js + Express REST API with MongoDB (Mongoose) and JWT authentication.
    ```
 
 ## Endpoints (summary)
-
 Auth
 - `POST /api/auth/register` — register user (name,email,password)
 - `POST /api/auth/login` — login (email,password)

@@ -42,4 +42,4 @@ Orders
 - `PUT /api/orders/:id` — admin: update order status
 
 ## Notes
-- This project is scaffolded and ready to run. You need a runn
+- This project is scaffolded and ready to run. You need a r

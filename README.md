@@ -119,7 +119,6 @@ MongoDB CRUD with Mongoose
 
 JWT Authentication Node.js
 
-👤 Author
-
+Author
 Project2 Backend API by Hesbon Angwenyi
 Node.js | Express | MongoDB | REST API Developer

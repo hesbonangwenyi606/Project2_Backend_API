@@ -1,9 +1,7 @@
-Project2_Backend_API
-
+### Project2_Backend_API
 A fully functional Node.js + Express REST API with MongoDB (Mongoose), JWT Authentication, Role-Based Access, and structured MVC architecture.
 
-🚀 Features
-
+## Features
 User authentication (Register, Login)
 
 JWT-based auth
@@ -20,7 +18,7 @@ Middleware-based auth
 
 Clean project structure
 
-📁 Project Structure
+### Project Structure
 Project2_Backend_API/
   |-- server.js
   |-- package.json
@@ -44,11 +42,11 @@ Project2_Backend_API/
   |-- /middleware
         └── auth.js
 
-🛠️ Setup
-1️⃣ Install Dependencies
+Setup
+## Install Dependencies
 npm install
 
-2️⃣ Environment Variables
+## Environment Variables
 
 Create a .env file:
 
@@ -56,14 +54,14 @@ PORT=5000
 MONGO_URI=mongodb://localhost:27017/project2_db
 JWT_SECRET=replace_with_secure_secret
 
-3️⃣ Run Server (Development)
+## Run Server (Development)
 npm run dev
 
-4️⃣ Run Server (Production)
+## Run Server (Production)
 npm start
 
-📌 API Endpoints
-🔐 Auth Routes
+ API Endpoints
+### Auth Routes
 Method	Endpoint	Description
 POST	/api/auth/register	Register new user
 POST	/api/auth/login	Login user
@@ -75,13 +73,14 @@ GET	/api/products/:id	Get product
 POST	/api/products	Create product (admin)
 PUT	/api/products/:id	Update product (admin)
 DELETE	/api/products/:id	Delete product (admin)
-📦 Orders
+
+## Orders
 Method	Endpoint	Description
 POST	/api/orders	Create order (auth)
 GET	/api/orders/my	Get user’s orders (auth)
 GET	/api/orders	Get all orders (admin)
 PUT	/api/orders/:id	Update order status (admin)
-🧪 Testing With cURL
+## Testing With cURL
 Register User
 curl -X POST http://localhost:5000/api/auth/register \
   -H "Content-Type: application/json" \

@@ -123,11 +123,3 @@ JWT Authentication Node.js
 
 Project2 Backend API by Hesbon Angwenyi
 Node.js | Express | MongoDB | REST API Developer
-
-If you want, I can also generate:
-
-✔ API Documentation PDF
-✔ Swagger UI Docs
-✔ Full frontend for this API (React, Next.js, Vue)
-
-Just tell me!

@@ -1,9 +1,7 @@
 # Project2_Backend_API
-
 Node.js + Express REST API with MongoDB (Mongoose) and JWT authentication.
 
-## Setup
-
+## Setusp
 1. Install dependencies:
    ```bash
    npm install
